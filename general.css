@@ -1,0 +1,50 @@
+@font-face {
+	font-family: "Familiar Pro Bold";
+	src: url(FamiliarproBold.otf);
+}
+
+body {
+	background-color: #f8fafc;
+	margin: 0px;
+}
+
+.container {
+	padding: 1rem;
+}
+
+a{
+	font-family: "familiar pro bold";
+	font-size: larger;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.gallery{
+	margin-left: 125px;
+	width: 175px;
+	display:inline-block
+
+}
+.gallery .Description{
+	padding: 10px;
+	text-align: center;
+	font-size: larger;
+}
+
+.gallery:hover{
+	width: 185px;
+}
+.gallery img{
+	width: 100%;
+	height: auto;
+
+	
+
+}
+.gallery1{
+	margin-left: 125px;
+	margin-top: 125px;
+}
